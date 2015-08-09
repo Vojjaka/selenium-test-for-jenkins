@@ -1,0 +1,4 @@
+setup\SetupDriver.class
+tests\SearchAndAddToCart.class
+tests\RegistrationTest.class
+PageObject\MainPage.class
